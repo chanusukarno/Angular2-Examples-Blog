@@ -1,0 +1,8 @@
+.list-group .list-group-item:hover {
+    background-color: gainsboro;
+    cursor: pointer;
+}
+
+.list-group .list-group-item.active {
+    background-color: #5bc0de;
+}
